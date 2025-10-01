@@ -1,0 +1,6 @@
+Arduino Uno / Nano / Mega – Microcontroller to control the system
+4x4 Matrix Keypad – For entering the password
+16x2 LCD Display with I2C Module – To display messages and feedback
+Servo Motor (e.g., SG90) – Acts as the door lock mechanism
+Buzzer – Provides audio feedback (success/error alerts)
+Jumper Wires – For making connections
